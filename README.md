@@ -8,5 +8,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumiflare&layout=compact)](https://github.com/lumiflare/github-readme-stats)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{lumiflare}"/>
+  <img src="https://render.gitanimals.org/lines/{lumiflare}?pet-id=1" width="1000" height="120"/>
 </a>
