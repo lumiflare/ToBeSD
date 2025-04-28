@@ -6,3 +6,7 @@
 <img width="1029" alt="Laravelユニーク制約" src="https://github.com/user-attachments/assets/a00e7d27-9769-4384-a378-21bb37b9a648" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumiflare&layout=compact)](https://github.com/lumiflare/github-readme-stats)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
